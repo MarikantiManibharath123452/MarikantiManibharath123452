@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MarikantiManibharath123452
+- 👋 Hi, I’m @MarikantiManibharath
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
@@ -7,7 +7,7 @@
 - ⚡ Fun fact: ...
 
 <!---
-MarikantiManibharath123452/MarikantiManibharath123452 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MarikantiManibharath/MarikantiManibharath is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 <---
